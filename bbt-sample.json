@@ -1,0 +1,47 @@
+{
+    "name": "Sample Token List",
+    "timestamp": "2021-07-21T12:26:50.636Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "logoURI": "https://www.finnomena.com/wp-content/uploads/2020/04/bitkub.png",
+    "keywords": [
+      "sample"
+    ],
+    "tokens": [
+      {
+        "name": "Token A",
+        "symbol": "A",
+        "address": "0x7d7e6a44118E9BaeF79e74C25054101F32cDF983",
+        "chainId": 25925,
+        "decimals": 18,
+        "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+      },
+      {
+        "name": "Token B",
+        "symbol": "B",
+        "address": "0x34E2c2A078B220dF7f7CCf0D0Aca5dbAA4A1C282",
+        "chainId": 25925,
+        "decimals": 18,
+        "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+      },
+      {
+        "name": "Token C",
+        "symbol": "C",
+        "address": "0x8d3f483E33faf642323D36A8fAEA6F2b2CD112D9",
+        "chainId": 25925,
+        "decimals": 18,
+        "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+      },
+      {
+        "name": "Token D",
+        "symbol": "D",
+        "address": "0xe55FE8516946aeE1924ca7AD08056A5e6eB6F956",
+        "chainId": 25925,
+        "decimals": 18,
+        "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+      }
+    ]
+}
