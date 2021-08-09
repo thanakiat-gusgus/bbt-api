@@ -12,6 +12,14 @@
     ],
     "tokens": [
       {
+        "name": "BBT DeFi Test",
+        "symbol": "BBDT",
+        "address": "0x383fFd1405D2e80B594A845EA834a78b4d1C092A",
+        "chainId": 25925,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
+      },
+      {
         "name": "Bitkub-Peg DAI",
         "symbol": "KDAI",
         "address": "0xE6A31F08E1b4054139040153121bC42BD20B92Fd",
